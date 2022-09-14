@@ -1,0 +1,84 @@
+{
+  "MIRKL": {
+    "ProductData": [
+      {
+        "UPCID": "12345678901",
+        "ProductType": "Cloth",
+        "OP_DIV": "12",
+        "taxCode": "dummyValue",
+        "nrfSizeCode": "12",
+        "msrp": "12",
+        "PDFData": {
+          "BrandName": "Macys brand"
+        },
+        "StellaData": {
+          "CustomerFacingPidDescription": "Yellow Color",
+          "CustomerFacingColDescription": "Yellow Color",
+          "Long Description": "Some Descrition",
+          "FabricCare": "Soft wash",
+          "FabricContent": "Wool",
+          "CountryOfOrigin": "USA",
+          "Warranty": "2 years",
+          "InternationalShipping": "N",
+          "LegalWarnings": "Some sample warning",
+          "F&BBullet1": "",
+          "F&BBullet2": "",
+          "F&BBullet3": "",
+          "F&BBullet4": "",
+          "F&BBullet5": "",
+          "ProductDimensions1": "",
+          "ProductDimensions2": "",
+          "ProductDimensions3": "",
+          "ShippingDimensionsLength1": "",
+          "ShippingDimensionsHeigth1": "",
+          "ShippingDimensionsWidth1": "",
+          "ShippingDimensionsWeigth": ""
+        },
+        "Images": [
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4434",
+            "ImageType": "mainImage",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4432",
+            "ImageType": "image1",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4437",
+            "ImageType": "image2",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4435",
+            "ImageType": "swatch",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          }
+        ]
+      }
+    ],
+    "FacetData": {
+      "items": [
+        {
+          "UPCID": "12345678901",
+          "ProductType": "Cloth",
+          "dept": "969",
+          "vendor": "345",
+          "pid": "1234567890",
+          "nrfColorCode": "12",
+          "attributes": [
+            {
+              "AttributeName": "UPCID",
+              "AttributeValue": "12345678901"
+            },
+            {
+              "AttributeName": "Color",
+              "AttributeValue": "Green"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

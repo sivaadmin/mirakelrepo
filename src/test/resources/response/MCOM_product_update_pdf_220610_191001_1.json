@@ -1,0 +1,19 @@
+{
+  "MIRKL": {
+    "Filename": "MCOM_product_update_220610_191001.json",
+    "items": [
+      {
+        "UPCID": "123456788801",
+        "Status": 400,
+        "OP_DIV": 12,
+        "Message": "UPC NOT FOUND"
+      },
+      {
+        "UPCID": "123456788803",
+        "Status": 400,
+        "OP_DIV": 12,
+        "Message": "UPC NOT FOUND"
+      }
+    ]
+  }
+}

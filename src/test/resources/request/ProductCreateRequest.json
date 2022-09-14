@@ -1,0 +1,19 @@
+{
+  "kind": "storage#object",
+  "id": "mtech-merch-epc-poc-317014-mirakl_transfer/MCOM/product_create/MCOM_product_create_220715_898991.json/1659357400871346",
+  "selfLink": "https://www.googleapis.com/storage/v1/b/mtech-merch-epc-poc-317014-mirakl_transfer/o/MCOM%2Fproduct_create%2FMCOM_product_create_220715_898991.json",
+  "name": "MCOM/product_create/MCOM_product_create_220715_898991.json",
+  "bucket": "mtech-merch-epc-poc-317014-mirakl_transfer",
+  "generation": "1659357400871346",
+  "metageneration": "1",
+  "contentType": "application/json",
+  "timeCreated": "2022-08-01T12:36:40.997Z",
+  "updated": "2022-08-01T12:36:40.997Z",
+  "storageClass": "STANDARD",
+  "timeStorageClassUpdated": "2022-08-01T12:36:40.997Z",
+  "size": "3056",
+  "md5Hash": "xYyfCpIN9e9urHqub4bdHw==",
+  "mediaLink": "https://www.googleapis.com/download/storage/v1/b/mtech-merch-epc-poc-317014-mirakl_transfer/o/MCOM%2Fproduct_create%2FMCOM_product_create_220715_898991.json?generation=1659357400871346&alt=media",
+  "crc32c": "rCxRJA==",
+  "etag": "CLLjvIPUpfkCEAE="
+}

@@ -1,0 +1,21 @@
+{
+  "MIRKL": {
+    "Filename": "MCOM_offer_220329_191088.json",
+    "OfferResponse": [
+      {
+        "UpcId": "12345678901",
+        "OfferID": "1221",
+        "OPDiv": "12",
+        "Status": "200",
+        "Message": "Success"
+      },
+      {
+        "UpcId": "12345678902",
+        "OfferID": "1222",
+        "OPDiv": "12",
+        "Status": "4xx",
+        "Message": "UPC does not exist"
+      }
+    ]
+  }
+}

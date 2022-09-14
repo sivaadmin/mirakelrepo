@@ -1,0 +1,27 @@
+{
+  "MIRKL": {
+    "OfferRequest": [
+      {
+        "UpcId": "12345678901",
+        "OfferID": "1221",
+        "OPDiv": "12",
+        "active":"true", 
+        "deleted":"false"
+      },
+      {
+        "UpcId": "12345678902",
+        "OfferID": "1222",
+        "OPDiv": "12",
+        "active":"false", 
+        "deleted":"true"
+      },
+      {
+        "UpcId": "12345678903",
+        "OfferID": "1223",
+        "OPDiv": "12",
+        "active":"true", 
+        "deleted":"false"
+      }
+    ]
+  }
+}

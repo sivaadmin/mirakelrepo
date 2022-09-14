@@ -1,0 +1,35 @@
+{
+  "MIRKL": {
+    "OfferResponse": [
+      {
+        "OfferID": "19492",
+        "Status": "200",
+        "UpcId": "890345167342",
+        "Message": "Success",
+        "OPDiv": "12"
+      },
+      {
+        "OfferID": "19503",
+        "Status": "200",
+        "UpcId": "890345167359",
+        "Message": "Success",
+        "OPDiv": "12"
+      },
+      {
+        "OfferID": "19117",
+        "Status": "500",
+        "UpcId": "794278367117",
+        "Message": "It is Non MarketplaceFlag Item",
+        "OPDiv": "12"
+      },
+      {
+        "OfferID": "19901",
+        "Status": "500",
+        "UpcId": "12345678901",
+        "Message": "UPC does not exist",
+        "OPDiv": "12"
+      }
+    ],
+    "Filename": "MCOM_offer_220427_010122.json"
+  }
+}

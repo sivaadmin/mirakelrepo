@@ -1,0 +1,19 @@
+{
+  "kind": "storage#object",
+  "id": "mtech-merch-epc-poc-mp_mirakl_orch_product_image_staging_dev/MCOM/product_update_images/192114459796_p0.jpg/1659355458537031",
+  "selfLink": "https://www.googleapis.com/storage/v1/b/mtech-merch-epc-poc-mp_mirakl_orch_product_image_staging_dev/o/MCOM%2Fproduct_update_images%2F192114459796_p0.jpg",
+  "name": "MCOM/product_update_images/192114459796_p0.jpg",
+  "bucket": "mtech-merch-epc-poc-mp_mirakl_orch_product_image_staging_dev",
+  "generation": "1659355458537031",
+  "metageneration": "1",
+  "contentType": "image/jpeg",
+  "timeCreated": "2022-08-01T12:04:18.653Z",
+  "updated": "2022-08-01T12:04:18.653Z",
+  "storageClass": "STANDARD",
+  "timeStorageClassUpdated": "2022-08-01T12:04:18.653Z",
+  "size": "3055758",
+  "md5Hash": "FN/hgVnAMI15YL1+8Rvgmw==",
+  "mediaLink": "https://www.googleapis.com/download/storage/v1/b/mtech-merch-epc-poc-mp_mirakl_orch_product_image_staging_dev/o/MCOM%2Fproduct_update_images%2F192114459796_p0.jpg?generation=1659355458537031&alt=media",
+  "crc32c": "VnShZw==",
+  "etag": "CMeMpuXMpfkCEAE="
+}

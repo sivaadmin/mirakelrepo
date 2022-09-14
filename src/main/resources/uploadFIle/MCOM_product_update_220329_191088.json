@@ -1,0 +1,146 @@
+{
+  "MIRKL": {
+    "ProductData": [
+      {
+        "UPCID": "12345678901",
+        "ProductType": "Cloth",
+        "OP_DIV": "12",
+		"PDFData": {
+          "BrandName": "Macys brand"
+        },
+        "StellaData": {
+          "CustomerFacingPidDescription": "UPC1 Yellow Color",
+          "CustomerFacingColDescription": "UPC1 Yellow Color",
+          "Long Description": "UPC1 Description2",
+          "FabricCare": "UPC1 Soft wash",
+          "FabricContent": "Wool",
+          "CountryOfOrigin": "USA",
+          "Warranty": "2 years",
+          "InternationalShipping": "Y",
+          "LegalWarnings": "UPC1 Warning2",
+          "F&BBullet1": "",
+          "F&BBullet2": "",
+          "F&BBullet3": "",
+          "F&BBullet4": "",
+          "F&BBullet5": "",
+          "ProductDimensions1": "",
+          "ProductDimensions2": "",
+          "ProductDimensions3": "",
+          "ShippingDimensionsLength1": "1",
+          "ShippingDimensionsHeight1": "2",
+          "ShippingDimensionsWidth1": "3",
+          "ShippingDimensionsWeight": "4"
+        },
+        "Images": [
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4436",
+            "ImageType": "mainImage",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt4436.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4432",
+            "ImageType": "image1",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4438",
+            "ImageType": "image2",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4434",
+            "ImageType": "swatch",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt4434.png"
+          }
+        ]
+      },
+	  {
+        "UPCID": "12345678902",
+        "ProductType": "Cloth",
+        "OP_DIV": "12",
+		"PDFData": {
+          "BrandName": "MCOM-Macys brand"
+        },
+        "StellaData": {
+          "CustomerFacingPidDescription": "UPC2 Yellow Color",
+          "CustomerFacingColDescription": "UPC2 Yellow Color",
+          "Long Description": "UPC2 Description2",
+          "FabricCare": "UPC2 Soft wash",
+          "FabricContent": "Wool",
+          "CountryOfOrigin": "USA",
+          "Warranty": "2 years",
+          "InternationalShipping": "Y",
+          "LegalWarnings": "UPC2 Warning2",
+          "F&BBullet1": "",
+          "F&BBullet2": "",
+          "F&BBullet3": "",
+          "F&BBullet4": "",
+          "F&BBullet5": "",
+          "ProductDimensions1": "",
+          "ProductDimensions2": "",
+          "ProductDimensions3": "",
+          "ShippingDimensionsLength1": "1",
+          "ShippingDimensionsHeight1": "2",
+          "ShippingDimensionsWidth1": "3",
+          "ShippingDimensionsWeight": "4"
+        },
+        "Images": [
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4435",
+            "ImageType": "mainImage",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4440",
+            "ImageType": "image1",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt4440.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4438",
+            "ImageType": "image2",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt.png"
+          },
+          {
+            "ImageID": "b4015c8803e8413cac593f8a66cc4444",
+            "ImageType": "swatch",
+            "ImageURL": "http://www.mirackl.com/shirt/shirt4444.png"
+          }
+        ]
+      }
+    ],
+    "FacetData": {
+      "items": [
+        {
+          "UPC": "12345678901",
+          "attributes": [
+            {
+              "AttributeName": "UPCID",
+              "AttributeValue": "12345678901"
+            },
+            {
+              "AttributeName": "Color",
+              "AttributeValue": "Green"
+            }
+          ]
+        },
+        {
+          "UPC": "12345678902",
+          "attributes": [
+            {
+              "AttributeName": "UPCID",
+              "AttributeValue": "12345678902"
+            },
+            {
+              "AttributeName": "Color",
+              "AttributeValue": "Green"
+            },
+            {
+              "AttributeName": "Item Color",
+              "AttributeValue": "Red"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

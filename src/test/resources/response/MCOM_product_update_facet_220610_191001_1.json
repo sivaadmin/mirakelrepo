@@ -1,0 +1,24 @@
+{
+  "MIRKL": {
+    "Filename": "MCOM_product_update_220610_191001.json",
+    "items": [
+      {
+        "UPCID": "123456788801",
+        "Status": 400,
+        "OP_DIV": "12",
+        "nrfColorCode": "240",
+        "Message": "Error processing request",
+        "vendor": "11",
+        "ProductType": "Watch",
+        "pid": "18-aef5-d5bea37482d5",
+        "attributes": [
+          {
+            "AttributeValue": "InActive,Anniversary",
+            "AttributeName": "Occasion"
+          }
+        ],
+        "dept": "902"
+      }
+    ]
+  }
+}

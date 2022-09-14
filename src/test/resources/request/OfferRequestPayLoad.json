@@ -1,0 +1,19 @@
+{
+  "kind": "storage#object",
+  "id": "mtech-merch-epc-poc-317014-il-marketplace-product-offer-poc/BCOM/offer/BCOM_offer_220517_191088.json/1659355633057876",
+  "selfLink": "https://www.googleapis.com/storage/v1/b/mtech-merch-epc-poc-317014-il-marketplace-product-offer-poc/o/BCOM%2Foffer%2FBCOM_offer_220517_191088.json",
+  "name": "BCOM/offer/BCOM_offer_220517_191088.json",
+  "bucket": "mtech-merch-epc-poc-317014-il-marketplace-product-offer-poc",
+  "generation": "1659355633057876",
+  "metageneration": "1",
+  "contentType": "application/json",
+  "timeCreated": "2022-08-01T12:07:13.183Z",
+  "updated": "2022-08-01T12:07:13.183Z",
+  "storageClass": "STANDARD",
+  "timeStorageClassUpdated": "2022-08-01T12:07:13.183Z",
+  "size": "363",
+  "md5Hash": "shS1sFPztnAHNkJ+ggySkg==",
+  "mediaLink": "https://www.googleapis.com/download/storage/v1/b/mtech-merch-epc-poc-317014-il-marketplace-product-offer-poc/o/BCOM%2Foffer%2FBCOM_offer_220517_191088.json?generation=1659355633057876&alt=media",
+  "crc32c": "dOCVOQ==",
+  "etag": "CNSAwrjNpfkCEAE="
+}

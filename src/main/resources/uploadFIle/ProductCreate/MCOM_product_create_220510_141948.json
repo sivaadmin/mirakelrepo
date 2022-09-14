@@ -1,0 +1,260 @@
+{
+  "MIRKL": {
+    "ProductData": [
+      {
+        "UPCID": "194124013807",
+        "ProductType": "Watch",
+        "OP_DIV": "12",
+		"taxCode": "dummyValue",
+        "nrfSizeCode": "12",
+        "msrp": "12",
+        "PDFData": {
+          "BrandName": "Name"
+        },
+        "StellaData": {
+          "CustomerFacingPidDescription": "Name",
+          "CustomerFacingColDescription": "Open Brown",
+          "Long Description": "Name",
+          "FabricCare": "Machine washable",
+          "FabricContent": "Name",
+          "CountryOfOrigin": "Made in USA",
+          "Warranty": "N",
+          "InternationalShipping": "N",
+          "LegalWarnings": "None",
+          "F&BBullet1": "Name",
+          "F&BBullet2": "Name",
+          "F&BBullet3": "Name",
+          "F&BBullet20": "Men|Unisex",
+          "ProductDimensions1": "Name",
+          "ProductDimensions3": "Name"
+        },
+        "Images": [
+          {
+            "ImageID": "f66b063b414842ba838afd7348d40123",
+            "ImageType": "mainImage",
+            "ImageURL": "https://media-dev-eu-2.mirakl.net/SOURCE/f66b063b414842ba838afd7348d40123"
+          },
+          {
+            "ImageID": "f66b063b414842ba838afd7348d40123",
+            "ImageType": "swatch",
+            "ImageURL": "https://media-dev-eu-2.mirakl.net/SOURCE/f66b063b414842ba838afd7348d40123"
+          }
+        ]
+      },
+      {
+        "UPCID": "13964765687",
+        "ProductType": "Hair Care",
+        "OP_DIV": "12",
+		"taxCode": "dummyValue2",
+        "nrfSizeCode": "13",
+        "msrp": "13",
+        "PDFData": {
+          "BrandName": "Name"
+        },
+        "StellaData": {
+          "CustomerFacingPidDescription": "Name",
+          "CustomerFacingColDescription": "Open White",
+          "Long Description": "Name",
+          "FabricCare": "Machine washable",
+          "FabricContent": "Name",
+          "CountryOfOrigin": "Imported",
+          "Warranty": "N",
+          "InternationalShipping": "N",
+          "LegalWarnings": "None",
+          "F&BBullet1": "Name",
+          "F&BBullet2": "Name",
+          "F&BBullet3": "Name",
+          "F&BBullet20": "Women",
+          "ProductDimensions1": "Name",
+          "ProductDimensions3": "Name"
+        },
+        "Images": [
+          {
+            "ImageID": "cfb498a8cfef4599a4c73710a6816491",
+            "ImageType": "mainImage",
+            "ImageURL": "https://media-dev-eu-2.mirakl.net/SOURCE/cfb498a8cfef4599a4c73710a6816491"
+          },
+          {
+            "ImageID": "cfb498a8cfef4599a4c73710a6816491",
+            "ImageType": "swatch",
+            "ImageURL": "https://media-dev-eu-2.mirakl.net/SOURCE/cfb498a8cfef4599a4c73710a6816491"
+          }
+        ]
+      },
+      {
+        "UPCID": "602573165942",
+        "ProductType": "Pet",
+        "OP_DIV": "12",
+		"taxCode": "dummyValue3",
+        "nrfSizeCode": "14",
+        "msrp": "14",
+        "PDFData": {
+          "BrandName": "Name"
+        },
+        "StellaData": {
+          "CustomerFacingPidDescription": "Name",
+          "CustomerFacingColDescription": "Open White",
+          "Long Description": "Name",
+          "FabricCare": "Machine washable",
+          "FabricContent": "Name",
+          "CountryOfOrigin": "Imported",
+          "Warranty": "N",
+          "InternationalShipping": "N",
+          "LegalWarnings": "None",
+          "F&BBullet1": "Name",
+          "F&BBullet2": "Name",
+          "F&BBullet3": "Name",
+          "F&BBullet20": "Bowls",
+          "ProductDimensions1": "Name",
+          "ProductDimensions3": "Name"
+        },
+        "Images": [
+          {
+            "ImageID": "fc51acab50ed43efa922eca86b29717a",
+            "ImageType": "mainImage",
+            "ImageURL": "https://media-dev-eu-2.mirakl.net/SOURCE/fc51acab50ed43efa922eca86b29717a"
+          },
+          {
+            "ImageID": "fc51acab50ed43efa922eca86b29717a",
+            "ImageType": "swatch",
+            "ImageURL": "https://media-dev-eu-2.mirakl.net/SOURCE/fc51acab50ed43efa922eca86b29717a"
+          }
+        ]
+      }
+    ],
+    "FacetData": {
+      "items": [
+        {
+          "UPCID": "194124013807",
+          "ProductType": "Watch",
+          "dept": "902",
+          "vendor": "v1",
+          "pid": "18-aef5-d5bea37482d5",
+          "nrfcolor": "240",
+          "attributes": [
+            {
+              "AttributeName": "Occasion",
+              "AttributeValue": "Active,Anniversary"
+            },
+            {
+              "AttributeName": "Electronics Type",
+              "AttributeValue": "Tech Watches"
+            },
+            {
+              "AttributeName": "Accessories Type",
+              "AttributeValue": "Watches"
+            },
+            {
+              "AttributeName": "Tech Features",
+              "AttributeValue": "Bluetooth,Email/call/text notification"
+            },
+            {
+              "AttributeName": "Fabric Pattern",
+              "AttributeValue": "All-Over Shine,Animal Print"
+            },
+            {
+              "AttributeName": "Age Group",
+              "AttributeValue": "Adult,Teen"
+            },
+            {
+              "AttributeName": "Hazmat",
+              "AttributeValue": "Contains Acetone"
+            },
+            {
+              "AttributeName": "OS Compatibility",
+              "AttributeValue": "Apple iOS,Android"
+            },
+            {
+              "AttributeName": "Band Color",
+              "AttributeValue": "Black,Blue"
+            },
+            {
+              "AttributeName": "Strap/Band",
+              "AttributeValue": "Bangle,Ceramic"
+            },
+            {
+              "AttributeName": "Case Shape",
+              "AttributeValue": "Rectangular,Round"
+            },
+            {
+              "AttributeName": "Case Size",
+              "AttributeValue": "Small (Less Than 31mm),Medium (31mm-39mm)"
+            },
+            {
+              "AttributeName": "Watch Features",
+              "AttributeValue": "Date,Day"
+            },
+            {
+              "AttributeName": "Watch Style",
+              "AttributeValue": "Casual,Chronograph"
+            },
+            {
+              "AttributeName": "Tech Type",
+              "AttributeValue": "Digital Movement,Fitness Trackers"
+            },
+            {
+              "AttributeName": "Dial Color",
+              "AttributeValue": "Black,Blue"
+            }
+          ]
+        },
+        {
+          "UPCID": "13964765687",
+          "ProductType": "Hair Care",
+          "dept": "921",
+          "vendor": "",
+          "pid": "fe-9016-b6c5a325c784",
+          "nrfcolor": "137",
+          "attributes": [
+            {
+              "AttributeName": "Hazmat",
+              "AttributeValue": "Contents Under Pressure"
+            },
+            {
+              "AttributeName": "Benefit",
+              "AttributeValue": "Anti-Aging"
+            },
+            {
+              "AttributeName": "Hair Care",
+              "AttributeValue": "Co-Wash"
+            },
+            {
+              "AttributeName": "Hair Texture",
+              "AttributeValue": "Coily"
+            },
+            {
+              "AttributeName": "Hair Type",
+              "AttributeValue": "Coarse"
+            },
+            {
+              "AttributeName": "Hair Concerns",
+              "AttributeValue": "Colored Hair"
+            },
+            {
+              "AttributeName": "Shampoo & Conditioner",
+              "AttributeValue": "Conditioner"
+            }
+          ]
+        },
+        {
+          "UPCID": "602573165942",
+          "ProductType": "Pet",
+          "dept": "927",
+          "vendor": "",
+          "pid": "18-aef5-d5bea37482d5",
+          "nrfcolor": "137",
+          "attributes": [
+            {
+              "AttributeName": "Occasion",
+              "AttributeValue": "Active"
+            },
+            {
+              "AttributeName": "Pet Accessories",
+              "AttributeValue": "Pet Bowls"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
